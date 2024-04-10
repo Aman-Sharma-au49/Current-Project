@@ -1,0 +1,46 @@
+body{
+    margin-top: 0px;
+    background-repeat:repeat;
+    background-size:cover;
+    background-position: center;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/012/843/767/non_2x/fresh-fruits-and-vegetables-on-grey-background-healthy-eating-concept-flat-lay-copy-space-photo.jpg) ;
+    object-fit: cover;
+
+}
+
+
+/* .login-container{
+  height: 50vh;
+  width: 30vh;
+  background-color: aqua;
+} */
+
+.button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.button:hover {
+  background-color: #45a049; /* Darker green */
+}
+
+/* Style the span inside the paragraph */
+p span {
+  cursor: pointer;
+  color: blue;
+}
+
+/* Hover effect for the span */
+p span:hover {
+  text-decoration: underline;
+}

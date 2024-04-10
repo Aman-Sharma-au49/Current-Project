@@ -1,0 +1,64 @@
+lebel{
+    font-size: 50px;
+    
+}
+
+ul li {
+  list-style: none;
+}
+
+/* BMI.css */
+
+/* Base styles */
+/* .container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  form {
+    text-align: center;
+  }
+  
+  input[type="number"] {
+    width: 100%;
+    max-width: 300px;
+    padding: 10px;
+    margin-bottom: 20px;
+  }
+  
+  button {
+    background: grey;
+    padding: 15px 30px;
+    border: solid;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: lightgrey;
+  }
+  
+  .card-container {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 400px;
+    background: #e5d1d4;
+    border: solid;
+    border-radius: 20px;
+    margin: 0 10px;
+  }
+  
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  /* Media queries for responsiveness */
+  
